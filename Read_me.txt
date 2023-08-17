@@ -1,0 +1,5 @@
+->Look up for presentation to know our objective behind the project
+->The project's current status: first objective 1 is passed, Optimisation will be applied afterward
+->creation of the model and training is still going on
+->the data is manipulated with the help of synthetic data produced by a synthetic datA generator(uploaded)
+->interface will be implemented at a later stage->the project has passed its first milestone\
